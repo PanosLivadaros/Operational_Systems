@@ -1,5 +1,5 @@
-# Operational_Systems
-Two small exercises assigned to us within the course of Operational Systems, during the third semester.
+# Operating_Systems
+Two small exercises assigned to us within the course of Operating Systems, during the third semester.
 
 The first program implements the creation of four threads, and their synchronization using semaphores, visualized by the indefinite printing of a phrase.
 
